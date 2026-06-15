@@ -1,0 +1,21 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Content - ignore everything except BluePrints
+Content/Assets/
+Content/Maps/
+Content/StackOBot/
+
+# IDE / Editor
+.vs/
+*.sln
+*.VC.db
+*.VC.opendb
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
